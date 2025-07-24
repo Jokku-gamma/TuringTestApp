@@ -1,0 +1,42 @@
+QUESTIONS = [
+    {
+        "question": "What's your favorite way to relax after a long day?",
+        "human_answer": "I usually just sit down with a good book and a cup of tea. Sometimes I'll put on some quiet music. It helps me relax.",
+    },
+    {
+        "question": "If you could travel anywhere in the world right now, where would you go and why?",
+        "human_answer": "I'd go to Kyoto, Japan, during cherry blossom season. The trees and old temples look very peaceful.",
+    },
+    {
+        "question": "What's a simple pleasure that always brings a smile to your face?",
+        "human_answer": "Hearing birds outside my window on a sunny morning. It's a small thing, but it always makes me feel good.",
+    },
+    {
+        "question": "Do you have any pets? If not, what kind of pet would you like to have?",
+        "human_answer": "I don't have pets now, but I'd like a Golden Retriever. They seem friendly, and I'd enjoy walking them.",
+    },
+    {
+        "question": "What's one skill you'd love to master?",
+        "human_answer": "I want to learn piano well. I've always liked music, and playing it myself would be rewarding.",
+    },
+    {
+        "question": "What's your go-to comfort food?",
+        "human_answer": "Homemade mac and cheese, definitely. The creamy sauce and crust remind me of childhood.",
+    },
+    {
+        "question": "If you had a superpower, what would it be and why?",
+        "human_answer": "Teleportation. I could save time traveling and visit many places quickly.",
+    },
+    {
+        "question": "What's the best piece of advice you've ever received?",
+        "human_answer": "Someone told me, 'Don't let perfect stop good.' It helps me get things done without overthinking.",
+    },
+    {
+        "question": "What's your favorite type of weather?",
+        "human_answer": "I like crisp autumn days. It's not too hot or cold, with a breeze and colorful leaves. Good for being outside.",
+    },
+    {
+        "question": "If you could learn any language instantly, which one would it be?",
+        "human_answer": "Japanese. I'm interested in the culture, and I'd like to understand anime and manga.",
+    },
+]
