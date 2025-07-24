@@ -21,7 +21,7 @@
   },
   {
     "question": "What's your go-to comfort food?",
-    "human_answer": "Homemade mac and cheese, definitely. The creamy sauce and crust remind me of childhood."
+    "human_answer": "Homemade mac and cheese. The creamy sauce and crust remind me of childhood."
   },
   {
     "question": "If you had a superpower, what would it be and why?",
